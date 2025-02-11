@@ -52,10 +52,6 @@ The model achieved:
 
 Classified results are saved in `lemon_results.csv`.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Feel free to open issues and pull requests to improve the project.
