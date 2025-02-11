@@ -31,6 +31,7 @@ The dataset consists of lemon images categorized for training and testing:
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   pip install mahotas
    ```
 
 ## Usage
